@@ -5,10 +5,25 @@ body {
 }
 
 header {
-    background-color: #9c9ec1;
-    color: white;
+    background-color: #88899d;
+    color: rgb(24, 96, 211);
     text-align: center;
     padding: 1em;
+    margin-top: 30%;
+    display: flex;
+
+    
+}
+
+h6,h5 {
+    background-color: #88899d;
+    color: rgb(29, 100, 213);
+    text-align: center;
+    padding: 1em;
+    margin-top: 30%;
+    display: flex;
+
+    
 }
 
 main {
